@@ -1,0 +1,29 @@
+.store_tag{ cursor: pointer;font-weight: 100;font-size: .8em; margin: 2px auto; display: inline-block; }
+.btn-filter{ border-bottom-right-radius: 0px; border-top-right-radius: 0px; float: left;}
+.badge-filter{ border-bottom-left-radius: 0px; border-top-left-radius: 0px; float: left; padding-left: 4px; padding-right: 4px; background-color: #666; color: white; border-color: #666; }
+.store-filter{ margin: 2px auto; display:inline-block; }
+.store-h3{ min-height:52px; margin: 10px auto; font-size: 22px; }
+.store-item{     border: 1px solid #ccc;
+    margin: 1%;
+    width: 48%;
+    border-radius: 5px; }
+#scrolltostore{ 
+    background: #666;
+    color: white !important;
+    padding: 5px;
+    border-radius: 3px; 
+	display:none; }
+#fixbtns{
+	position: fixed;
+    right: 20px;
+    bottom: 20px; 
+}
+#removefilters{ 
+    background: #428bca;
+    color: white !important;
+    padding: 5px;
+    border-radius: 3px; 
+	display:none; }
+@media (max-width: 768px) { 
+	.store-item{ width:auto }
+}
