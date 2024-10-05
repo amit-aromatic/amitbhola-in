@@ -66,8 +66,8 @@
 				<div class="col-md-12" style="margin-top: -40px;">
 					<span class="btn btn-success" style="margin:5px auto;width:100px;display: block;">Store</span>
 					<p>
-						<a target="_blank" href="https://github.com/amit-aromatic/">View on Github</a>
-						<br>
+<!-- 						<a target="_blank" href="https://github.com/amit-aromatic/">View on Github</a>
+						<br> -->
 						Filter a category from dropdown or by clicking a category tag in the items.
 					</p>
 				</div>
