@@ -7,5 +7,5 @@
    - set `onclick="download_file('FILE_NAME')"` to the exact file name in `store/files/`,
    - update the description paragraph,
    - update the tag spans with `onclick="apply_filter(TAG_ID)"` as needed.
-6) If the filter dropdown total count text says `All ( 69 )`, update that number manually to reflect the new total.
+6) Update the filter dropdown list in `select` tag, update the number manually to reflect the new total.
 7) Save the page and verify the new download item works in the browser.
